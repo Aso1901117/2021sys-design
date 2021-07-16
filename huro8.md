@@ -34,6 +34,6 @@ DBサーバー->webサーバー:ログアウト結果
 webサーバー->ユーザー:ログアウト結果
 end
 
-aeactivateユーザー
+deactivateユーザー
 @enduml
 ```
